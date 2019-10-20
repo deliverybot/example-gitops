@@ -1,5 +1,5 @@
 #!/bin/bash
-# Call with GIT_REPO GIT_PATH NAMESPACE PREFIX
+# Call with GIT_REPO GIT_PATH NAMESPACE
 
 set -e
 cd $(mktemp -d)
