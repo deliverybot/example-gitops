@@ -25,7 +25,7 @@ GIT_REPO=git@github.com:myrepo/example-gitops.git GIT_PATH=deploy NAMESPACE=kube
 ```
 
 3. Create a new repository to emulate an application that you want to deploy to
-   Kubernetes and install the GitOps action https://deliverybot/gitops
+   Kubernetes and install the GitOps action https://github.com/deliverybot/gitops
 
 4. [Install the repository][deliverybot] on Deliverybot.
 
