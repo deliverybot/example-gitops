@@ -9,7 +9,7 @@ This brings the benefits of GitOps together with the ease of managing deployment
 automation with Deliverybot. Click a button and watch manifests be updated and
 deployed to your Kubernetes cluster!
 
-![Flux diagram](docs/flux.svg)
+![Flux diagram](https://deliverybot.dev/assets/images/integrations/flux.svg)
 
 **This is currently in beta and the API around this may change.**
 
