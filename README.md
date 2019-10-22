@@ -15,6 +15,8 @@ deployed to your Kubernetes cluster!
 
 ## Getting started
 
+Requires `cfssl` to be installed along with `helm` and `kubectl`.
+
 1. Copy this repository to your organization.
 
 2. Run the [`./install.sh`](install.sh) script to setup FluxCD or follow this
