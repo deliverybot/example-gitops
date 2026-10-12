@@ -1,5 +1,8 @@
 # Deliverybot GitOps example
 
+> [!WARNING]
+> This example is no longer maintained and the repository is archived. It needs Flux v1 and Tiller (Helm 2), which are both end of life. See the [GitOps guide](https://deliverybot.dev/docs/integrations/gitops/) for a current setup with Flux v2.
+
 This example sets up a GitHub repository as a source of truth for [Flux][flux]
 to read and to apply manifests into your Kubernetes cluster. It also has a
 corresponding GitHub action which can push manifests to this repository to
